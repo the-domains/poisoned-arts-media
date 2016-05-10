@@ -1,0 +1,28 @@
+name: Poisoned Arts Media
+favicon: null
+layout_spectrum: 0.21851599914953113
+typography_spectrum: 0.8220324832946062
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.10747621906921268
+  lightness: 0.8679083003662527
+  saturation: 0.3506427137181163
+  rhythmicContrast: 0.128579368814826
+purpose: []
